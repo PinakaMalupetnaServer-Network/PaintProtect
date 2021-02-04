@@ -1,0 +1,5 @@
+name: PaintProtect
+author: princepines, codeeeh
+main: paintprotect\pp\paintprotect
+version: 1.0.0
+api: 3.0.0
